@@ -1,0 +1,17 @@
+C:\Users\steve\OneDrive - Estudiantes ITCR\TEC\II Semestre\Algoritmos y Estructuras de Datos 1\Tareas\MensajeriaApp\MensajeriaApp\bin\Release\net8.0-windows\MensajeriaApp.exe
+C:\Users\steve\OneDrive - Estudiantes ITCR\TEC\II Semestre\Algoritmos y Estructuras de Datos 1\Tareas\MensajeriaApp\MensajeriaApp\bin\Release\net8.0-windows\MensajeriaApp.deps.json
+C:\Users\steve\OneDrive - Estudiantes ITCR\TEC\II Semestre\Algoritmos y Estructuras de Datos 1\Tareas\MensajeriaApp\MensajeriaApp\bin\Release\net8.0-windows\MensajeriaApp.runtimeconfig.json
+C:\Users\steve\OneDrive - Estudiantes ITCR\TEC\II Semestre\Algoritmos y Estructuras de Datos 1\Tareas\MensajeriaApp\MensajeriaApp\bin\Release\net8.0-windows\MensajeriaApp.dll
+C:\Users\steve\OneDrive - Estudiantes ITCR\TEC\II Semestre\Algoritmos y Estructuras de Datos 1\Tareas\MensajeriaApp\MensajeriaApp\bin\Release\net8.0-windows\MensajeriaApp.pdb
+C:\Users\steve\OneDrive - Estudiantes ITCR\TEC\II Semestre\Algoritmos y Estructuras de Datos 1\Tareas\MensajeriaApp\MensajeriaApp\obj\Release\net8.0-windows\MensajeriaApp.Form1.resources
+C:\Users\steve\OneDrive - Estudiantes ITCR\TEC\II Semestre\Algoritmos y Estructuras de Datos 1\Tareas\MensajeriaApp\MensajeriaApp\obj\Release\net8.0-windows\MensajeriaApp.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive - Estudiantes ITCR\TEC\II Semestre\Algoritmos y Estructuras de Datos 1\Tareas\MensajeriaApp\MensajeriaApp\obj\Release\net8.0-windows\MensajeriaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\OneDrive - Estudiantes ITCR\TEC\II Semestre\Algoritmos y Estructuras de Datos 1\Tareas\MensajeriaApp\MensajeriaApp\obj\Release\net8.0-windows\MensajeriaApp.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive - Estudiantes ITCR\TEC\II Semestre\Algoritmos y Estructuras de Datos 1\Tareas\MensajeriaApp\MensajeriaApp\obj\Release\net8.0-windows\MensajeriaApp.AssemblyInfo.cs
+C:\Users\steve\OneDrive - Estudiantes ITCR\TEC\II Semestre\Algoritmos y Estructuras de Datos 1\Tareas\MensajeriaApp\MensajeriaApp\obj\Release\net8.0-windows\MensajeriaApp.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive - Estudiantes ITCR\TEC\II Semestre\Algoritmos y Estructuras de Datos 1\Tareas\MensajeriaApp\MensajeriaApp\obj\Release\net8.0-windows\MensajeriaApp.sourcelink.json
+C:\Users\steve\OneDrive - Estudiantes ITCR\TEC\II Semestre\Algoritmos y Estructuras de Datos 1\Tareas\MensajeriaApp\MensajeriaApp\obj\Release\net8.0-windows\MensajeriaApp.dll
+C:\Users\steve\OneDrive - Estudiantes ITCR\TEC\II Semestre\Algoritmos y Estructuras de Datos 1\Tareas\MensajeriaApp\MensajeriaApp\obj\Release\net8.0-windows\refint\MensajeriaApp.dll
+C:\Users\steve\OneDrive - Estudiantes ITCR\TEC\II Semestre\Algoritmos y Estructuras de Datos 1\Tareas\MensajeriaApp\MensajeriaApp\obj\Release\net8.0-windows\MensajeriaApp.pdb
+C:\Users\steve\OneDrive - Estudiantes ITCR\TEC\II Semestre\Algoritmos y Estructuras de Datos 1\Tareas\MensajeriaApp\MensajeriaApp\obj\Release\net8.0-windows\MensajeriaApp.genruntimeconfig.cache
+C:\Users\steve\OneDrive - Estudiantes ITCR\TEC\II Semestre\Algoritmos y Estructuras de Datos 1\Tareas\MensajeriaApp\MensajeriaApp\obj\Release\net8.0-windows\ref\MensajeriaApp.dll
