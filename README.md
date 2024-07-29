@@ -9,9 +9,7 @@ Por medio de la interfaz mostramos los mensajes en un TextBox, y por texto indic
 
 ### Cómo ejecutar?
 
-Puede clonar este repositorio y dar click en el archivo .exe de la aplicación. Este inmediatamente ejecutará el programa
-
-También puede solo descargar este archivo (Debe desactivar su Antivirus, o pulsar confiar en el archivo que está descargando, al ser un ejecutable este es considerado como un posible virus)
+Puede clonar este repositorio y dar click en el archivo .exe de la aplicación, este se encuentra en el siguiente directorio ./MensajeriaApp\MensajeriaApp\bin\Release\net8.0-windows\MensajeriaApp.exe. Este inmediatamente ejecutará el programa
 ![image](https://github.com/user-attachments/assets/ec112ea8-8db8-4d41-86e2-747a4ee75ba0)
 
 Otra forma es abriendo la terminal en la carpeta del proyecto. y ejecutar el comando "dotnet run". debe tener instalado .Net para hacerlo de esta manera
