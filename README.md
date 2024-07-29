@@ -11,7 +11,7 @@ Por medio de la interfaz mostramos los mensajes en un TextBox, y por texto indic
 
 Puede clonar este repositorio y dar click en el archivo .exe de la aplicación. Este inmediatamente ejecutará el programa
 
-También puede solo descargar este archivo
+También puede solo descargar este archivo (Debe desactivar su Antivirus, o pulsar confiar en el archivo que está descargando, al ser un ejecutable este es considerado como un posible virus)
 ![image](https://github.com/user-attachments/assets/ec112ea8-8db8-4d41-86e2-747a4ee75ba0)
 
 Otra forma es abriendo la terminal en la carpeta del proyecto. y ejecutar el comando "dotnet run". debe tener instalado .Net para hacerlo de esta manera
