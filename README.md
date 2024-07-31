@@ -22,16 +22,12 @@ También podría abrir la terminal en la carpeta donde se encuentre el .exe, y e
 
 ### Cómo usar el programa
 #### -Ejecutar al menos 2 instancias del programa
-![image](https://github.com/user-attachments/assets/779304b4-1f81-4ec0-8015-a15c921c81ae)
-
-#### -Escribir el puerto listener y pulsar Iniciar
-![image](https://github.com/user-attachments/assets/576a4185-38b6-4605-b747-8ecd004f88d2)
-
-#### -Escribir el mensaje deseado, luego el puerto de destino y pulsar Enviar
-![image](https://github.com/user-attachments/assets/980e758b-f979-490f-a07d-70c884f3c785)
-
+![image](https://github.com/user-attachments/assets/7d323c6a-5261-46a4-a8ce-e793f764ccb3)
+#### -Escribir el puerto listener y el puerto destino, escribir el mensaje deseado y pulsar "enviar" 
+##### Importante: (Debe enviar el mensaje simultáneamente en ambas instacias, sino puede haber errores) Esto debido a que cada vez que se envía el mensaje se reinicia el socket listener
+![image](https://github.com/user-attachments/assets/ade804d3-260a-4d1f-9079-cf65d44fe77a)
 #### -En este punto ya puede enviar los mensajes que guste
-![image](https://github.com/user-attachments/assets/dc3eb115-d6fc-43c3-b502-de96c5c9bf6e)
+
 
 
 
