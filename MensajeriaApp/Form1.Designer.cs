@@ -31,7 +31,6 @@
         private System.Windows.Forms.TextBox txtListenPort;
         private System.Windows.Forms.TextBox txtTargetPort;
         private System.Windows.Forms.Button btnSend;
-        private System.Windows.Forms.Button btnStart;
 
         private void InitializeComponent()
         {
@@ -40,7 +39,6 @@
             txtListenPort = new TextBox();
             txtTargetPort = new TextBox();
             btnSend = new Button();
-            btnStart = new Button();
             SuspendLayout();
             // 
             // txtMessages
@@ -86,22 +84,11 @@
             btnSend.Location = new Point(299, 526);
             btnSend.Margin = new Padding(4, 5, 4, 5);
             btnSend.Name = "btnSend";
-            btnSend.Size = new Size(100, 35);
+            btnSend.Size = new Size(196, 35);
             btnSend.TabIndex = 4;
             btnSend.Text = "Enviar";
             btnSend.UseVisualStyleBackColor = true;
             btnSend.Click += btnSend_Click;
-            // 
-            // btnStart
-            // 
-            btnStart.Location = new Point(407, 526);
-            btnStart.Margin = new Padding(4, 5, 4, 5);
-            btnStart.Name = "btnStart";
-            btnStart.Size = new Size(100, 35);
-            btnStart.TabIndex = 5;
-            btnStart.Text = "Iniciar";
-            btnStart.UseVisualStyleBackColor = true;
-            btnStart.Click += btnStart_Click;
             // 
             // Form1
             // 
@@ -109,7 +96,6 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(15, 15, 15);
             ClientSize = new Size(512, 577);
-            Controls.Add(btnStart);
             Controls.Add(btnSend);
             Controls.Add(txtTargetPort);
             Controls.Add(txtListenPort);

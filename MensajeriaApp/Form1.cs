@@ -11,22 +11,27 @@ namespace MensajeriaApp
 
         private void btnSend_Click(object sender, EventArgs e)
         {
+            int listenPort = int.Parse(txtListenPort.Text);
+            chatServer = new ChatServer(listenPort, OnMessageReceived);
+            chatServer.Start();
+            AppendMessage($"Servidor iniciado en el puerto {listenPort}");
             int targetPort = int.Parse(txtTargetPort.Text);
             chatClient = new ChatClient(targetPort);
             string message = txtMessage.Text;
             chatClient.SendMessage(message);
             AppendMessage($"Enviado: {message}");
             txtMessage.Clear();
+            chatServer.Close();
 
         }
 
-        private void btnStart_Click(object sender, EventArgs e)
+        /*private void btnStart_Click(object sender, EventArgs e)
         {
             int listenPort = int.Parse(txtListenPort.Text);
             chatServer = new ChatServer(listenPort, OnMessageReceived);
             chatServer.Start();
             AppendMessage($"Servidor iniciado en el puerto {listenPort}");
-        }
+        }*/
         private void OnMessageReceived(string message)
         {
             Invoke(new Action(() => AppendMessage($"Recibido: {message}")));

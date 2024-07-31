@@ -8,6 +8,7 @@ public class ChatServer
 {
     private readonly int listenPort;
     private readonly Action<string> onMessageReceived;
+    private bool connection = true;
 
     public ChatServer(int listenPort, Action<string> onMessageReceived)
     {
@@ -21,12 +22,15 @@ public class ChatServer
         serverThread.IsBackground = true;
         serverThread.Start();
     }
+    public void Close() { 
+        connection = false;
+    }
 
     private void Run()
     {
         TcpListener listener = new TcpListener(IPAddress.Any, listenPort);
         listener.Start();
-        while (true)
+        while (connection)
         {
             TcpClient client = listener.AcceptTcpClient();
             NetworkStream stream = client.GetStream();
@@ -35,5 +39,6 @@ public class ChatServer
             string message = Encoding.UTF8.GetString(buffer, 0, bytesRead);
             onMessageReceived(message);
         }
+        listener.Stop();
     }
 }
